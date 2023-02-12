@@ -68,7 +68,6 @@ body, html {
   .banner-2 {
     font-size: 50px;
     color: white;
-    /* margin-top: 50px; */
   }
 
   .banner-3 {
@@ -143,7 +142,7 @@ body, html {
 
 /* service area start */
   .m-bg {
-    background: rgba(0, 0, 0, 0.70) url("/menu/10.jpg");
+    background: rgba(0, 0, 0, 0.70) url("menu/10.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-blend-mode: overlay;
@@ -236,7 +235,7 @@ body, html {
   
 /* time area start */
   .t-color {
-    background: rgba(0, 0, 0, 0.70) url("/09.jpg");
+    background: rgba(0, 0, 0, 0.70) url("09.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-blend-mode: overlay;
@@ -297,7 +296,7 @@ body, html {
 
 /* blog area start */
   .bn-image {
-    background: rgba(0, 0, 0, 0.70) url("/blog/01.jpg");
+    background: rgba(0, 0, 0, 0.70) url("blog/01.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-blend-mode: overlay;
@@ -420,7 +419,7 @@ body, html {
 
 /* chefs area start */
   .chefs-bg {
-    background: rgba(0, 0, 0, 0.50) url("/chefs/04.jpg");
+    background: rgba(0, 0, 0, 0.50) url("chefs/04.jpg");
     background-size: cover;
     background-blend-mode: overlay;
     background-attachment: fixed;
@@ -492,7 +491,7 @@ body, html {
 /* contact area end */
 /* footer area start */
   .ft-imgg {
-    background: rgba(0, 0, 0, 0.50) url("/10.jpg");
+    background: rgba(0, 0, 0, 0.50) url("10.jpg");
     background-size: cover;
     background-blend-mode: overlay;
     background-attachment: fixed;
