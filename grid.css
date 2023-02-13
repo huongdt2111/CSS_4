@@ -398,6 +398,7 @@ body, html {
     border: 0;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
+    box-shadow: -20px 11px 14px 0px #bcbcbc;
   }
 
   .card-title {
